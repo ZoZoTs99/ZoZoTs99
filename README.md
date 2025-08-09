@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZoZoTs99
 - 👀 I’m interested in mobile, web and game development
-- 🌱 I’m currently learning React, C# and TypeScript
+- 🌱 I’m currently learning Swift and SwiftUI
 - 💞️ I’m looking to collaborate on something creative and fun
 - 📫 How to reach me zoetsourounake@gmail.com
 
